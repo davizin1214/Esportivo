@@ -1,0 +1,21 @@
+ body {
+    color:rgb(255, 81, 0) ;
+    background: aliceblue ;
+    margin: opx:blue;
+    font-family ; ''chakra petch'' sans serif: aliceblue ;
+    sargin-bottom: 100px;
+ }
+  header {
+    border-bottom: solid 2px ;
+    padding: 20px;
+    front-size: 32px;
+    color: rgb (255,81,0);
+    }
+
+    chamada {
+        background:
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+        }
